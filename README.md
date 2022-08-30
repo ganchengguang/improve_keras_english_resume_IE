@@ -20,6 +20,7 @@ Bi-LSTM-Attention and CNN-Attention Model:
 
 The main code are base in chen0040/keras-english-resume-parser-and-analyzer for improvement.
 Add the Attention layer in last original output layer.
+And you need pip install attention
 
 
 
@@ -27,4 +28,5 @@ BERT Model:
 
 BERT Model is base in sujianlin's bert4keras.
 
-You need pip install bert4keras.
+You need pip install bert4keras
+
