@@ -12,7 +12,9 @@ This code is the paper with:
 
 The dataset is already publicly available at kaggle. You can download it at this URL below.  
 https://www.kaggle.com/datasets/chingkuangkam/resume-text-classification-dataset  
-  
+and HuggingFace
+https://huggingface.co/datasets/ganchengguang/resume-5label-classification
+
 Put the dataset into this folder (demo\data\training_data) and you can use it.  
    
   
